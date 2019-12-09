@@ -1,0 +1,19 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 8, 2019, 6:43:09 PM
+    Author     : cristhiandgz
+*/
+
+@import "ejercicio2.css";
+
+textarea {max-width: 300px;}
+
+.texto{
+    border: 1px solid;
+    width: 300px;
+    margin: 10px auto;
+}

@@ -1,0 +1,14 @@
+input{
+    width: 150px;    
+    display: inline-block;
+}
+div{
+    margin-top: 10px;
+}
+img{      
+    width: 200px;
+    height: 200px;
+}
+.img-2{
+    float: right;
+}
